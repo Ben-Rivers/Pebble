@@ -3,4 +3,5 @@ Pebble aims to be an extension and companion to Processing JS, a JavaScript grap
 It has the following goals:
 * Compatibility with Khan Academy's implementation of Processing JS
 * Concise, clear documentation
-* Useful functionality not offered by normal Processing JS
+* Useful functionality not offered by normal Processing JS, including:
+** Hitbox detection
