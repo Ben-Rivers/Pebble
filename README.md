@@ -5,3 +5,4 @@ It has the following goals:
 * Concise, clear documentation
 * Useful functionality not offered by normal Processing JS, including:
 > Hitbox detection
+> New shapes and methods of user interactivity
