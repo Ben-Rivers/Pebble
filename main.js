@@ -1,5 +1,3 @@
 //jshint ignore:start
-var mandelbrot=function(){
-
-}
+//nothing yet :c
 //jshint ignore:end
